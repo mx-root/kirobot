@@ -1,0 +1,11 @@
+# output otomatis (jangan di-commit)
+googleused.txt
+result.jsonl
+token.txt
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+farm_venv/
